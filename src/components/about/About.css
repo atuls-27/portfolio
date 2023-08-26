@@ -52,6 +52,8 @@
   }
   .connect{
     margin-top: 70px;
+      display: flex;
+  flex-wrap: nowrap;
   }
   .connect > a {
     padding: 30px;
