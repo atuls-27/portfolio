@@ -25,7 +25,7 @@ const About = () => {
         </p>
         <p className="a-desc">
           Hi there , I am a MERN stack developer having proficiency in Reactjs and many other frontend libraries and <br></br>dependencies used to create an attractive 
-          and fully responsive designed webpage. With the help of MongoDB<br></br>, ExpressJs and NodeJs i can build a bakend server and connect it with frontend so 
+          and fully responsive designed webpage. With the help of MongoDB<br></br>, ExpressJs and NodeJs i can build a backend server and connect it with frontend so 
           that i can be a <br></br>full stack web developer.
         </p>
         <div className="connect" >
